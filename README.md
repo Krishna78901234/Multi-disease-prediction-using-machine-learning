@@ -40,7 +40,7 @@ Multi-disease-prediction-using-machine-learning/
 
 
 # Clone the repository
-git clone [https://github.com/Krishna78901234/Multi-disease-prediction-using-machine-learning.git](https://github.com/Krishna78901234/Multi-disease-prediction-using-machine-learning.git)
+git clone [https://github.com/Pravanjan78901234/Multi-disease-prediction-using-machine-learning.git](https://github.com/Krishna78901234/Multi-disease-prediction-using-machine-learning.git)
 
 # Navigate into the folder
 cd Multi-disease-prediction-using-machine-learning
